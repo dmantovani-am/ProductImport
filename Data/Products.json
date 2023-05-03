@@ -1,0 +1,236 @@
+[
+ {
+  "Id": 1,
+  "Title": "Apple Beats Studio3 Wireless",
+  "Price": 99,
+  "DiscountedPrice": 99,
+  "Description": "Apple Beats Studio3 Wireless è un paio di cuffie over-ear di qualità superiore, dotate di alcune delle più avanzate tecnologie audio. Le cuffie offrono un'esperienza di ascolto immersiva, con una connessione wireless stabile e senza distorsioni, grazie al loro chip W1.\n\nPregi:\n\n- Tecnologia W1: le cuffie includono un chip W1 che garantisce una connessione wireless stabile e senza distorsioni.\n\n- Cancellazione del rumore: la cancellazione del rumore attiva aiuta a isolare il rumore esterno, offrendo un suono più nitido.\n\n- Durata della batteria: le cuffie possono durare fino a 22 ore con una singola carica.\n\n- Controllo facile: l'auricolare destro ha un pulsante multifunzione per controllare la riproduzione musicale.\n\nDifetti:\n\n- Prezzo elevato: le Beats Studio3 Wireless sono piuttosto costose, quindi non sono un'opzione accessibile a tutti.\n\n- Peso: le cuffie sono piuttosto pesanti, quindi potrebbero non essere una buona scelta per chi desidera un paio di cuffie più leggere.",
+  "Categories": ["Accessories", "Audio", "Headphones"],
+  "Image": "product1-320x320.png"
+ },
+ {
+  "Id": 2,
+  "Title": "Razer Blade 15 gaming laptop",
+  "Price": 63,
+  "DiscountedPrice": 57,
+  "Description": "Il Razer Blade 15 è un laptop da gioco di ultima generazione, progettato per offrire un'esperienza di gioco fluida e senza problemi. È dotato di uno schermo con risoluzione Full HD da 15,6 pollici, un processore Intel Core i7-8750H, 32 GB di RAM e una scheda grafica NVIDIA GeForce RTX 2080 Max-Q. Offre inoltre una connessione Wi-Fi 802.11ac, una porta Thunderbolt 3, un lettore di schede SD e una porta HDMI.\n\nPregi:\n\n• Prestazioni di gioco eccezionali con un processore Intel Core i7-8750H, 32 GB di RAM e una scheda grafica NVIDIA GeForce RTX 2080 Max-Q.\n\n• Schermo luminoso e nitido con risoluzione Full HD da 15,6 pollici.\n\n• Compatibilità con la tecnologia Wi-Fi 802.11ac per una connessione veloce e senza problemi.\n\n• Porte Thunderbolt 3, HDMI, lettore di schede SD per connessioni multiple.\n\nDifetti:\n\n• Prezzo elevato.\n\n• Non ha una batteria rimovibile.\n\n• La durata della batteria non è eccezionale, quindi può essere necessario collegarlo alla presa di corrente per prolungare la durata della batteria.",
+  "Categories": ["Computer & Laptop"],
+  "Image": "product2-320x320.png"
+ },
+ {
+  "Id": 3,
+  "Title": "Canon EOS 1500D EFS 18-55mm",
+  "Price": 56,
+  "DiscountedPrice": 56,
+  "Description": "Canon EOS 1500D con obiettivo EFS 18-55mm è una macchina fotografica reflex entry level di fascia media che offre un ottimo rapporto qualità\/prezzo. Grazie al sistema di messa a fuoco automatica a 9 punti, alla velocità di scatto di 3 fps e al sensore APS-C da 24.1 megapixel, questa fotocamera è in grado di catturare immagini nitide e dettagliate ad un prezzo accessibile. Il suo obiettivo EFS 18-55mm offre una Gamma di focali versatili con una buona nitidezza e una portata di zoom sufficiente per la maggior parte delle situazioni. Il display LCD da 2.7\" è di buona qualità ed è dotato di una funzione di rotazione. La fotocamera è anche dotata di una connessione Wi-Fi per la condivisione di foto e video.\n\nPregi:\n\n- Buona qualità dell'immagine ad un prezzo accessibile\n\n- Sistema di messa a fuoco automatica a 9 punti\n\n- Velocità di scatto di 3 fps\n\n- Display LCD da 2.7\" con funzione di rotazione\n\n- Sensore APS-C da 24.1 megapixel\n\n- Obiettivo EFS 18-55mm versatile con una buona nitidezza\n\n- Connessione Wi-Fi per la condivisione di foto e video\n\nDifetti:\n\n- Non è possibile acquistare lenti aggiuntive\n\n- Non ha la connettività GPS\n\n- Non ha la tecnologia NFC",
+  "Categories": ["Accessories", "Cameras"],
+  "Image": "product3-320x320.png"
+ },
+ {
+  "Id": 4,
+  "Title": "Canon ME20F-SHN Video Camera",
+  "Price": 499,
+  "DiscountedPrice": 499,
+  "Description": "La Canon ME20F-SHN Video Camera è una fotocamera con sensore CMOS Full HD di alta qualità, dotata di un obiettivo che può catturare immagini fino a 4 milioni di ISO, la più alta sensibilità al buio mai raggiunta prima da una fotocamera. Con una risoluzione massima di 1920 x 1080, offre un'eccellente qualità dell'immagine anche in condizioni di luce difficili.\n\nPregi:\n\n- Eccellente qualità dell'immagine anche in condizioni di luce difficili.\n\n- Fotocamera con sensore CMOS Full HD di alta qualità.\n\n- Obiettivo in grado di catturare immagini fino a 4 milioni di ISO.\n\n- Compatta e leggera.\n\n- Funzionalità di registrazione multi-frame.\n\nDifetti:\n\n- Prezzo relativamente elevato.\n\n- Non è dotata di una funzione di monitoraggio remoto.\n\nIn conclusione, la Canon ME20F-SHN Video Camera è un'ottima fotocamera per la registrazione di video ad alta qualità in condizioni di luce difficili. Offre una vasta gamma di funzionalità avanzate, ma ha un prezzo relativamente elevato. Quindi, si tratta di un'ottima scelta per chi cerca una fotocamera di qualità professionale.",
+  "Categories": ["Accessories", "Cameras"],
+  "Image": "product4-320x320.png"
+ },
+ {
+  "Id": 5,
+  "Title": "Power Bank 10000Mah Lithium",
+  "Price": 49,
+  "DiscountedPrice": 49,
+  "Description": "La Power Bank 10000Mah Lithium è una delle più potenti fra le batterie portatili per ricaricare dispositivi mobili, come cellulari, tablet, laptop, fotocamere e altri dispositivi. La sua capacità è di 10000mAh, che la rende in grado di ricaricare fino a 3 volte uno smartphone prima di esaurire le sue capacità.\n\nIl vantaggio principale della Power Bank 10000Mah Lithium è la sua velocità di ricarica, che la rende molto più rapida delle altre batterie portatili. Inoltre, è dotata di due porte USB, una per la ricarica rapida e una per la ricarica standard, e di una porta di uscita per collegare il cavo di ricarica.\n\nUno dei principali difetti della Power Bank 10000Mah Lithium è il suo peso abbastanza elevato. Infatti, pesa circa 500 grammi, il che la rende poco pratica da trasportare. Inoltre, la sua batteria ha una durata ridotta, quindi potrebbe non durare più di un anno.\n\nIn conclusione, la Power Bank 10000Mah Lithium è un ottimo prodotto per chi ha bisogno di una batteria portatile potente e veloce. È leggera abbastanza da trasportare, ma dura relativamente poco. Per quanto riguarda l'utilizzo come scheda per un sito ecommerce, può essere una buona soluzione, poiché la sua velocità di ricarica può far risparmiare tempo ai clienti.",
+  "Categories": ["Accessories", "Smartphone"],
+  "Image": "product5-320x320.png"
+ },
+ {
+  "Id": 6,
+  "Title": "SteelSeries Nimbus Wireless Gaming Controller",
+  "Price": 499,
+  "DiscountedPrice": 499,
+  "Description": "Il SteelSeries Nimbus Wireless Gaming Controller è un dispositivo di gioco di alta qualità progettato per offrire le migliori prestazioni di gioco ottimali. La sua forma ergonomica lo rende comodo da tenere durante le sessioni di gioco prolungate. Il controller è alimentato da una batteria ricaricabile e ha una portata fino a 10 metri. Grazie al supporto Bluetooth, può essere facilmente collegato a dispositivi iOS, macOS e Apple TV.\n\nPregi:\n\n-Design ergonomico e leggero che è facile da trasportare.\n-Supporta la connettività Bluetooth e può essere utilizzato su diversi dispositivi iOS, macOS e Apple TV.\n-Ha una portata fino a 10 metri.\n-Le sue batterie ricaricabili garantiscono sessioni di gioco più lunghe.\n\nDifetti:\n-Le sue dimensioni potrebbero essere un po' più grandi rispetto ai controller tradizionali.\n-Non può essere collegato a dispositivi che non supportano il Bluetooth.",
+  "Categories": ["Accessories", "Video Games"],
+  "Image": "product6-320x320.png"
+ },
+ {
+  "Id": 7,
+  "Title": "Apple TV 4K 64GB",
+  "Price": 55,
+  "DiscountedPrice": 45,
+  "Description": "Apple TV 4K 64GB è un prodotto di alta qualità che offre un'esperienza di intrattenimento di prima classe a casa. La qualità delle immagini è eccezionale con una risoluzione fino a 4K e una tecnologia avanzata per migliorare la nitidezza. Supporta anche HDR e Dolby Vision per una visione ancora più realistica. L'Apple TV 4K 64GB è anche un dispositivo di streaming di contenuti audio e video dai principali servizi di streaming, come Netflix, Hulu e Amazon Prime.\n\nPregi:\n\n- Eccezionale qualità delle immagini\n- Supporta HDR e Dolby Vision\n- Offre una vasta gamma di contenuti audio e video da principali servizi di streaming.\n\nDifetti:\n\n- Il prezzo è più alto rispetto ad altre opzioni di streaming.\n- Non è possibile accedere a contenuti da siti di terze parti come YouTube o Vimeo.",
+  "Categories": ["Accessories"],
+  "Image": "product7-320x320.png"
+ },
+ {
+  "Id": 8,
+  "Title": "Macbook Pro 13",
+  "Price": 999,
+  "DiscountedPrice": 999,
+  "Description": "Il Macbook Pro 13 è un laptop potente e di qualità con un display Retina da 13 pollici. È dotato di un processore Intel Core di ottava generazione, fino a 16 GB di RAM, fino a 2 TB di storage SSD, una porta Thunderbolt 3 e una batteria che dura fino a 10 ore. Inoltre, è dotato di una varietà di porte, tra cui USB-C, USB 3.0, HDMI e lettore di schede SD.\n\nPregi:\n\n• Processore Intel di ottava generazione molto potente\n\n• Design di qualità con display Retina da 13 pollici\n\n• Grande quantità di RAM e storage\n\n• Porte multiple, tra cui USB-C, USB 3.0, HDMI e lettore di schede SD\n\n• Batteria che dura fino a 10 ore\n\nDifetti:\n\n• Può essere costoso\n\n• La dimensione del display può essere troppo piccola per alcune persone\n\n• Si scalda facilmente se usato per lunghi periodi di tempo",
+  "Categories": ["Computer & Laptop"],
+  "Image": "product8-1-320x320.png"
+ },
+ {
+  "Id": 9,
+  "Title": "LG Watch W7 Smartwatch",
+  "Price": 499,
+  "DiscountedPrice": 399,
+  "Description": "LG Watch W7 Smartwatch è un orologio intelligente che combina l'eleganza di un orologio tradizionale con le funzionalità di uno smartwatch. Il design è elegante e minimalista, con linee arrotondate e una cassa in acciaio inossidabile. Il dispositivo offre una varietà di funzionalità, tra cui monitoraggio del fitness, cronometro, controlli musicali, notifiche, risponditore intelligente, ecc. Il display offre anche una modalità Always-On che consente di monitorare i progressi mentre si è in movimento.\n\nPregi:\n+ Design elegante e minimalista.\n+ Monitoraggio della salute e del fitness.\n+ Funzioni di controllo musicale.\n+ Notifiche intelligenti.\n+ Modalità Always-On.\n\nDifetti:\n- La batteria dura solo un giorno con uso intenso.\n- La modalità Always-On riduce la durata della batteria.\n- Le notifiche possono essere un po' difficili da gestire.\n- Non è possibile rispondere direttamente alle notifiche.\n- Le funzionalità di monitoraggio del fitness sono limitate.",
+  "Categories": ["Watches"],
+  "Image": "product9-320x320.png"
+ },
+ {
+  "Id": 10,
+  "Title": "HONOR Orologio Classico con Display Meteorite Black",
+  "Price": 399,
+  "DiscountedPrice": 379,
+  "Description": "L'orologio classico con display meteorite black di HONOR è un orologio elegante e di lusso, caratterizzato da un design moderno ed elegante. Costruito con materiali di alta qualità, include un movimento al quarzo giapponese resistente all'acqua e un cinturino in pelle di vitello. Il display meteorite nero conferisce al design un aspetto unico, mentre la cassa in acciaio inossidabile leggero è resistente all'usura.\n\nPregi:\n- Design elegante e moderno\n- Movimento al quarzo giapponese resistente all'acqua\n- Cinturino in pelle di vitello\n- Display meteorite nero\n- Cassa in acciaio inossidabile leggero\n\nDifetti:\n- Non è dotato di funzioni intelligenti come contapassi o notifiche\n- La batteria non può essere sostituita dall'utente",
+  "Categories": ["Accessories", "Watches"],
+  "Image": "product10-320x320.png"
+ },
+ {
+  "Id": 11,
+  "Title": "Caricabatterie wireless TYLT ORB",
+  "Price": 56,
+  "DiscountedPrice": 56,
+  "Description": "Il Caricabatterie wireless TYLT ORB è un caricabatterie wireless universale progettato per caricare qualsiasi dispositivo abilitato a ricarica wireless, come telefoni cellulari, tablet, cuffie e altro ancora. È dotato di una porta USB-C che offre la ricarica fino a 5V\/2A per dispositivi dotati di tecnologia di ricarica rapida. È un prodotto leggero e compatto, realizzato con un design ergonomico che lo rende piacevole alla vista e facile da trasportare. È dotato di un LED per indicare il livello di carica, consentendo agli utenti di sapere quando la loro batteria è completamente carica.\n\nPregi: Design ergonomico e compatto, ricarica rapida fino a 5V\/2A, LED per indicare il livello di carica, facile da trasportare.\n\nDifetti: Non è compatibile con tutti i dispositivi abilitati alla ricarica wireless, può essere costoso rispetto ad altri caricabatterie wireless.",
+  "Categories": ["Accessories", "Audio", "Speaker"],
+  "Image": "products11-320x320.png"
+ },
+ {
+  "Id": 12,
+  "Title": "Apple iWatch",
+  "Price": 399,
+  "DiscountedPrice": 399,
+  "Description": "L'Apple iWatch è uno smartwatch di Apple che offre una vasta gamma di funzionalità avanzate. È dotato di un display Retina OLED da 1,78 pollici, un processore S3 e una memoria da 8 GB. È dotato di una serie di sensori che consentono di monitorare la frequenza cardiaca, l'attività fisica, il sonno e altri parametri vitali. È compatibile con l'iPhone e può essere utilizzato come dispositivo di tracciamento.\n\nI pro di Apple iWatch sono i seguenti:\n\n1. La sua robusta costruzione e l'ampia gamma di caratteristiche lo rendono uno smartwatch versatile e resistente.\n\n2. Dispone di una batteria ad alta durata, che consente di utilizzarlo per lunghi periodi senza preoccuparsi del consumo energetico.\n\n3. È dotato di una serie di sensori che consentono di monitorare la frequenza cardiaca, l'attività fisica, il sonno e altri parametri vitali.\n\n4. È dotato di una serie di applicazioni integrate che consentono di gestire al meglio la propria salute.\n\nI contro di Apple iWatch sono i seguenti:\n\n1. Il prezzo è abbastanza alto, quindi può essere un po' costoso per alcune persone.\n\n2. Non supporta l'esecuzione di applicazioni di terze parti.\n\n3. Il display OLED non è abbastanza luminoso per un uso all'esterno.\n\n4. Non supporta la connessione Wi-Fi.\n\nIn conclusione, l'Apple iWatch è uno smartwatch di alta qualità dotato di una serie di funzionalità avanzate che lo rendono uno strumento di monitoraggio della salute ideale.",
+  "Categories": ["Smart Watch", "Watches"],
+  "Image": "product12-320x320.png"
+ },
+ {
+  "Id": 13,
+  "Title": "iPhone XS",
+  "Price": 699,
+  "DiscountedPrice": 699,
+  "Description": "L'iPhone XS è uno smartphone di fascia alta prodotto da Apple. È dotato di un display Super Retina HD da 5,8 pollici, di una fotocamera TrueDepth da 12 megapixel, di un processore A12 Bionic a 7 nanometri e di iOS 12.\n\nPregi:\n- Display Super Retina HD da 5,8 pollici di alta qualità.\n- Fotocamera TrueDepth da 12 megapixel con tecnologia HDR.\n- Processore A12 Bionic ad alte prestazioni.\n- iOS 12 per un'esperienza utente fluida.\n\nDifetti:\n- Prezzo elevato.\n- Autonomia della batteria limitata.\n- Memoria interna limitata a 64\/256\/512 GB.",
+  "Categories": ["Smartphone"],
+  "Image": "product13-320x320.png"
+ },
+ {
+  "Id": 14,
+  "Title": "OnePlus 7T Pro",
+  "Price": 999,
+  "DiscountedPrice": 999,
+  "Description": "OnePlus 7T Pro è uno dei dispositivi top di gamma di OnePlus. Vanta un design elegante, una scheda tecnica di alto livello e un display AMOLED da 6,67 pollici con risoluzione Quad HD+ e supporto HDR10+. Il dispositivo è alimentato da un processore Qualcomm Snapdragon 855+ con 8 GB di RAM e 256 GB di memoria interna. La batteria da 4085 mAh può essere ricaricata rapidamente grazie al supporto alla tecnologia Warp Charge 30T.\n\nPregi:\n\n- Design elegante\n+ Schermo AMOLED di alto livello\n+ Potente processore Qualcomm Snapdragon 855+\n+ 8 GB di RAM\n+ 256 GB di memoria interna\n+ Batteria da 4085 mAh con ricarica rapida\n\nDifetti:\n- Prezzo elevato\n- La fotocamera posteriore non è all'altezza di altri dispositivi top di gamma",
+  "Categories": ["Smartphone"],
+  "Image": "product14-320x320.png"
+ },
+ {
+  "Id": 15,
+  "Title": "Cavo USB 1 m USB 2.0 USB C",
+  "Price": 29,
+  "DiscountedPrice": 29,
+  "Description": "Il Cavo USB 1 m USB 2.0 USB C è un prodotto resistente e durevole, ed è dotato di una struttura in alluminio ricoperta da un involucro di gomma che lo rende abbastanza resistente agli urti. Il cavo è progettato per supportare velocità di trasferimento dati fino a 480 Mbps, ed è compatibile con numerosi dispositivi, tra cui smartphone, tablet e laptop. Permette di collegare un dispositivo USB Type-C a un dispositivo USB Type-A, come un computer.\n\nPregi:\n\n• Alta velocità di trasferimento dati.\n• Struttura in alluminio e involucro di gomma resistente.\n• Compatibile con una vasta gamma di dispositivi.\n\nDifetti:\n• La lunghezza del cavo potrebbe non essere sufficiente per alcuni dispositivi.",
+  "Categories": ["Accessories", "Computer & Laptop", "Smartphone"],
+  "Image": "product15-320x320.png"
+ },
+ {
+  "Id": 16,
+  "Title": "Wireless WiFi Camera HD 720p",
+  "Price": 199,
+  "DiscountedPrice": 190,
+  "Description": "La Wireless WiFi Camera HD 720p è un dispositivo wireless di sorveglianza domestica altamente versatile che offre video ad alta definizione e audio nitido. La telecamera ha una risoluzione di 1280 x 720p e può essere controllata a distanza in modalità wireless tramite un'applicazione mobile.\n\nPregi:\n\n- Facile da installare e impostare.\n- Funziona in modalità wireless, quindi non è necessario installare cavi.\n- Ha un obiettivo a lunga gamma che consente una visione ampia e nitida.\n- Grande risoluzione di 720p e audio nitido.\n- Può essere controllata a distanza tramite un'applicazione mobile.\n\nDifetti:\n- Non è possibile registrare video in modalità wireless.\n- La qualità del video potrebbe non essere sufficiente per un uso professionale.\n- La visione notturna è limitata.\n- Non è possibile effettuare la registrazione di movimento.",
+  "Categories": ["Accessories", "Cameras"],
+  "Image": "product16-320x320.png"
+ },
+ {
+  "Id": 17,
+  "Title": "iPad Mini 64GB",
+  "Price": 399,
+  "DiscountedPrice": 389,
+  "Description": "L'iPad Mini 64GB è un dispositivo portatile di Apple con un display da 7,9 pollici. Ha una risoluzione di 2048 x 1536, un processore A12 Bionic con architettura a 64 bit, 3 GB di RAM e una fotocamera posteriore da 8 megapixel. Il dispositivo è dotato di una memoria interna di 64GB, che può essere espansa tramite una scheda microSD.\n\nPregi:\n\n- Display Retina di alta qualità con risoluzione 2048 x 1536\n\n- Processore A12 Bionic ad alte prestazioni\n\n- Fotocamera posteriore ad alta risoluzione da 8 megapixel\n\n- Memoria interna di 64GB espandibile tramite scheda microSD\n\n- Connettività Wi-Fi e Bluetooth\n\nDifetti:\n\n- La batteria non è removibile\n\n- Non ha una porta USB\n\n- Non c'è una porta per la connessione di una tastiera esterna\n\n- Non è possibile eseguire più app nello stesso momento\n\nIn generale, l'iPad Mini 64GB è un ottimo dispositivo per un sito di e-commerce perché offre un'eccellente qualità del display e una fotocamera ad alta risoluzione per la creazione di contenuti visivi di alta qualità. La memoria interna di 64GB garantisce una buona capacità di archiviazione, ma la mancanza di una porta USB e di una porta per la connessione di una tastiera esterna può essere un problema per alcuni utenti.",
+  "Categories": ["Computer & Laptop"],
+  "Image": "product17-320x320.png"
+ },
+ {
+  "Id": 18,
+  "Title": "Garmin Vivofit",
+  "Price": 199,
+  "DiscountedPrice": 199,
+  "Description": "Garmin Vivofit è un dispositivo indossabile che si collega con un'applicazione mobile, monitorando le attività fisiche e aiutando a raggiungere gli obiettivi di fitness.\n\nPregi:\n- È progettato per essere indossato 24 ore su 24, contando passi, calorie bruciate, distanze percorse o monitorando i vari sonni.\n- Dispone della funzione Move Bar per incoraggiare l'utente a rimanere attivo durante la giornata, con una barra che si riempie gradualmente quando si sta fermi per più di un'ora.\n- È resistente all'acqua e non necessita di ricarica.\n\nDifetti:\n- Non dispone di una fascia di cardio integrata.\n- Non è dotato di alcun sensore GPS.\n- La sincronizzazione con l'applicazione mobile può essere inefficiente.",
+  "Categories": ["Smart Watch", "Watches"],
+  "Image": "product18-320x320.png"
+ },
+ {
+  "Id": 19,
+  "Title": "BigBen Interactive Party Lite Speaker",
+  "Price": 49,
+  "DiscountedPrice": 49,
+  "Description": "BigBen Interactive Party Lite Speaker è un altoparlante portatile di alta qualità che offre un audio ricco e di qualità. Si collega facilmente a qualsiasi dispositivo audio tramite Bluetooth e può riprodurre musica in modalità wireless fino a 10 metri di distanza. La sua forma compatta e leggera lo rende facile da trasportare e la batteria ricaricabile garantisce fino a 6 ore di ascolto.\n\nI vantaggi principali di questo altoparlante sono la qualità del suono, la portabilità e la durata della batteria. La connessione Bluetooth è facile da stabilire e il design moderno e alla moda lo rende un accessorio ideale per qualsiasi festa.\n\nUno dei principali svantaggi di questo altoparlante è che non è possibile collegarlo a più dispositivi audio contemporaneamente. Inoltre, non è possibile modificare il volume dell'altoparlante direttamente dal dispositivo.",
+  "Categories": ["Accessories", "Audio", "Speaker"],
+  "Image": "product19-320x320.png"
+ },
+ {
+  "Id": 20,
+  "Title": "Apple iPhone 6 Plus",
+  "Price": 135,
+  "DiscountedPrice": 135,
+  "Description": "L'Apple iPhone 6 Plus è uno smartphone top di gamma prodotto da Apple. Progettato con un design elegante e una struttura resistente, è dotato di un display Retina HD da 5,5 pollici e di un processore A8 di ultima generazione. Grazie alla sua fotocamera iSight da 8 megapixel, alla sua fotocamera FaceTime HD da 1,2 megapixel e alla sua memoria interna da 16GB, l'Apple iPhone 6 Plus offre la massima esperienza di navigazione e intrattenimento.\n\nPregi:\n\n- Design elegante e resistente;\n- Display Retina HD da 5,5 pollici;\n- Processore A8 di ultima generazione;\n- Fotocamera iSight da 8 megapixel;\n- Fotocamera FaceTime HD da 1,2 megapixel;\n- Memoria interna da 16GB;\n- Ricarica wireless.\n\nDifetti:\n\n- Prezzo elevato;\n- Non è possibile espandere la memoria;\n- La batteria dura solo una giornata.",
+  "Categories": ["Smartphone"],
+  "Image": "product20-320x320.png"
+ },
+ {
+  "Id": 21,
+  "Title": "Slowmoose Auricolare Bluetooth",
+  "Price": 10,
+  "DiscountedPrice": 10,
+  "Description": "L'auricolare Bluetooth Slowmoose è un dispositivo di fascia alta progettato per offrire un suono di qualità superiore. Si caratterizza per la sua connettività wireless e la custodia protettiva in silicone, che protegge le cuffie da urti e polvere. È inoltre dotato di un microfono integrato che permette di effettuare chiamate in modo chiaro e senza interferenze.\n\nPregi:\n\n• Design elegante e resistente all'acqua\n\n• Connessione wireless stabile e veloce\n\n• Qualità audio eccellente\n\n• Microfono integrato\n\n• Custodia protettiva in silicone\n\nDifetti:\n\n• La batteria non dura a lungo\n\n• Le cuffie possono risultare scomode dopo un uso prolungato\n\n• Non dispone di una funzione di cancellazione del rumore",
+  "Categories": ["Accessories", "Audio", "Headphones"],
+  "Image": "product21-320x320.png"
+ },
+ {
+  "Id": 22,
+  "Title": "Motorola Razr",
+  "Price": 360,
+  "DiscountedPrice": 350,
+  "Description": "Motorola Razr è uno smartphone pieghevole di ultima generazione che offre uno schermo Full HD da 6,2 pollici. È alimentato da un processore Qualcomm Snapdragon 710, 8 GB di RAM e 128 GB di memoria interna. La batteria da 2510 mAh offre fino a 14 ore di autonomia.\n\nPregi:\n\n- Schermo pieghevole Full HD da 6,2 pollici per un'esperienza visiva eccellente.\n\n- Processore Qualcomm Snapdragon 710 fornisce prestazioni eccellenti.\n\n- 8 GB di RAM e 128 GB di memoria interna per un'esperienza fluida.\n\n- Batteria da 2510 mAh offre fino a 14 ore di autonomia.\n\n- Doppia fotocamera posteriore da 16MP + 5MP per foto di qualità.\n\n- Design sottile e leggero per una portabilità eccezionale.\n\nDifetti:\n\n- La batteria non è rimovibile.\n\n- Non è dotato di un jack per cuffie.\n\n- La doppia fotocamera non è all'altezza di alcuni telefoni di fascia alta.\n\n- Il prezzo è piuttosto alto rispetto ad altri smartphone.",
+  "Categories": ["Smartphone"],
+  "Image": "product22-320x320.png"
+ },
+ {
+  "Id": 23,
+  "Title": "Microsoft Surface Laptop 2",
+  "Price": 585,
+  "DiscountedPrice": 550,
+  "Description": "Microsoft Surface Laptop 2 è un computer portatile di fascia alta con un design leggero e sottile. Ha un display touchscreen da 13,5 pollici con una risoluzione di 2256x1504 pixel. La connettività include porte USB-A e USB-C, un jack audio da 3,5 mm, un lettore di schede microSD e una porta Surface Connect per connettersi a un hub Surface.\n\nPregi:\n\n-Design elegante e leggero.\n-Display touchscreen di alta qualità.\n-Connettività di ultima generazione con porte USB-A, USB-C, jack audio da 3,5 mm, lettore di schede microSD e porta Surface Connect.\n-Ottima autonomia della batteria.\n\nDifetti:\n\n-Prezzo abbastanza alto.\n-Non include una porta HDMI.\n-Può essere un po' lento quando si eseguono più attività contemporaneamente.",
+  "Categories": ["Computer & Laptop"],
+  "Image": "product23-320x320.png"
+ },
+ {
+  "Id": 24,
+  "Title": "Solar Wireless Wireless Solar Powered",
+  "Price": 49,
+  "DiscountedPrice": 49,
+  "Description": "Solar Wireless Wireless Solar Powered è un prodotto di ultima generazione che offre un'opzione di alimentazione senza fili di alta qualità. Utilizza la tecnologia del pannello solare integrata per ricaricare le batterie agli ioni di litio, garantendo un'alimentazione pulita ed efficiente.\n\nPro:\n\n- Design compatto e leggero, ideale per un sito ecommerce.\n\n- Tecnologia di ricarica solare efficiente e di facile utilizzo.\n\n- Le batterie agli ioni di litio forniscono una durata più lunga tra le ricariche.\n\n- Disponibile in una varietà di dimensioni per soddisfare le diverse esigenze.\n\nContro:\n\n- La tecnologia del pannello solare integrato può essere costosa.\n\n- Le batterie agli ioni di litio richiedono una manutenzione regolare.\n\n- Richiede l'accesso a un'alimentazione elettrica per caricare le batterie.\n\n- Il design compatto può limitare le dimensioni del prodotto.",
+  "Categories": ["Cameras"],
+  "Image": "product24-320x320.png"
+ },
+ {
+  "Id": 26,
+  "Title": "Activity and Fitness Tracker",
+  "Price": 50,
+  "DiscountedPrice": 50,
+  "Description": "Activity and Fitness Tracker è un dispositivo moderno ed efficiente che monitora l'attività fisica e l'intensità dell'allenamento. Si adatta a qualsiasi tipo di attività fisica, dalla semplice passeggiata alla corsa, e fornisce dati precisi sulla frequenza cardiaca, velocità, distanza, calorie bruciate e altro ancora.\n\nPregi:\n\n• Monitora accuratamente le attività fisiche, fornendo dati precisi sulla frequenza cardiaca, velocità, distanza e calorie bruciate.\n\n• Ha un design moderno e resistente all'acqua, quindi puoi portarlo con te ovunque tu vada.\n\n• Compatibile con un'ampia gamma di dispositivi mobili.\n\n• Offre una varietà di funzionalità utili come la programmazione dell'allenamento, la registrazione dei progressi e le statistiche.\n\nDifetti:\n\n• Richiede una connessione Bluetooth per funzionare correttamente.\n\n• La batteria tende a scaricarsi rapidamente.\n\n• I dati raccolti possono essere imprecisi in alcune situazioni.\n\n• Può essere costoso rispetto ad altri tracker.",
+  "Categories": ["Accessories", "Smart Watch", "Watches"],
+  "Image": "product26-320x320.png"
+ },
+ {
+  "Id": 27,
+  "Title": "Soundcore Cassa Bluetooth Flare Min",
+  "Price": 40,
+  "DiscountedPrice": 35,
+  "Description": "Soundcore Cassa Bluetooth Flare Mini è un altoparlante portatile di qualità superiore, progettato per offrire un suono ricco e nitido e una potenza di uscita potente. Offre 12 ore di riproduzione continua, un design impermeabile IPX7 e una connessione Bluetooth di classe 1 con un raggio di trasmissione fino a 66 ft.\n\nPregi:\n\n• Suono nitido e ricco con una potenza di uscita potente.\n\n• Dotato di una batteria ricaricabile da 12 ore.\n\n• Design impermeabile IPX7.\n\n• Connessione Bluetooth di classe 1 con un raggio di trasmissione fino a 66 ft.\n\n• Compatibile con qualsiasi dispositivo abilitato Bluetooth, come telefoni, tablet e computer.\n\n• Disponibile in una gamma di colori alla moda.\n\nDifetti:\n\n• Bassi non particolarmente profondi o potenti.\n\n• Il design portatile e compatto significa che non è in grado di produrre un suono ad alto volume.\n\n• Non è possibile collegare più altoparlanti insieme.",
+  "Categories": ["Accessories", "Audio", "Speaker"],
+  "Image": "product27-320x320.png"
+ }
+]
